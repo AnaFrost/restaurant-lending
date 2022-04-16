@@ -1,0 +1,13 @@
+.form__item_parts_button {
+  grid-area: button;
+  background: #E8C300;
+  text-transform: uppercase;
+  color: #fff;
+  cursor: pointer;
+  transition: opacity .4s ease;
+}
+
+.form__item_parts_button:hover {
+  opacity: 0.6;
+  transition: opacity .4s ease;
+}

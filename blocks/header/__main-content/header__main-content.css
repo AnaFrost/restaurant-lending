@@ -1,0 +1,15 @@
+.header__main-content {
+  -ms-flex-preferred-size: 848px;
+  flex-basis: 848px;
+  -ms-flex-negative: 1;
+  flex-shrink: 1;
+  position: relative;
+  z-index: 1;
+}
+
+@media screen and (max-width: 475px) {
+  .header__main-content {
+    -ms-flex-preferred-size: 560px;
+    flex-basis: 560px;
+  }
+}
