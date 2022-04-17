@@ -16,4 +16,9 @@
 4. Контент на странице отцентрован.
 5. Создание сеток используя flex.
 
+#### Что бы открыть проект:
+
+1. Выполнить команду git clone https://github.com/AnaFrost/restaurant-lending.git или скачать репозиторий архивом;
+2. Открыть index.html в папке с проектом.
+
 #### [Ссылка на макет в Figma](https://www.figma.com/file/yhqJTln2yAEuka54oIrOzY/restaurant)
